@@ -1,0 +1,20 @@
+[
+    {
+        "productId": 22,
+        "series": "860 EVO SATA",
+        "type": "SATA",
+        "capacity": 500,
+        "readSpeed": 550,
+        "writeSpeed": 520,
+        "consumption": 15
+    },
+    {
+        "productId": 23,
+        "series": "970 EVO Plus M.2 NVMe",
+        "type": "М.2 NVMe",
+        "capacity": 250,
+        "readSpeed": 3400,
+        "writeSpeed": 2300,
+        "consumption": 15
+    }
+]

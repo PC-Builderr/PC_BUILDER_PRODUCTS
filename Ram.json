@@ -1,0 +1,29 @@
+[
+    {
+        "productId": 19,
+        "series": "HyperX Fury",
+        "type": "DDR4",
+        "voltage": 1.2,
+        "speed": 3466,
+        "capacity": 16,
+        "consumption": 20
+    },
+    {
+        "productId": 20,
+        "series": "Corsair",
+        "type": "DDR4",
+        "voltage": 1.2,
+        "speed": 2133,
+        "capacity": 4,
+        "consumption": 10
+    },
+    {
+        "productId": 21,
+        "series": "HyperX Fury CL16",
+        "type": "DDR4",
+        "voltage": 1.2,
+        "speed": 3200,
+        "capacity": 8,
+        "consumption": 15
+    }
+]

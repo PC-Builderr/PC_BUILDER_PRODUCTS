@@ -1,0 +1,17 @@
+[
+    {
+        "productId": 1,
+        "series": "Manta Matte Black",
+        "format": "mini-ITX"
+    },
+    {
+        "productId": 2,
+        "series": "Pure Base 600",
+        "format": "ATX"
+    },
+    {
+        "productId": 3,
+        "series": "Crystal Series 280X RGB",
+        "format": "micro-ATX"
+    }
+]

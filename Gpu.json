@@ -1,0 +1,24 @@
+[
+    {
+        "productId": 10,
+        "series": "GeForce RTX 3090",
+        "speed": 19500,
+        "memory": 24,
+        "memoryType": "GDDR6X",
+        "busWidth": 384,
+        "format": "ATX",
+        "SLICrossfire": false,
+        "consumption": 750
+    },
+    {
+        "productId": 11,
+        "series": "GeForce GTX 1650 Super",
+        "speed": 1740,
+        "memory": 4,
+        "memoryType": "GDDR6",
+        "busWidth": 128,
+        "format": "mini-ITX",
+        "SLICrossfire": false,
+        "consumption": 350
+    }
+]

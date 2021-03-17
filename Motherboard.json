@@ -1,0 +1,53 @@
+[
+    {
+        "productId": 12,
+        "series": "ROG STRIX Z490-H GAMING",
+        "socket": "LGA 1200",
+        "chipset": "Intel Z490",
+        "ramCapacity": 128,
+        "maxRamSpeed": 4600,
+        "ramSlots": 4,
+        "ramType": "DDR4",
+        "m2Ports": 2,
+        "sataPorts": 6,
+        "pciSlots": 3,
+        "nvidiaSli": false,
+        "amdCrossfire": true,
+        "format": "ATX",
+        "consumption": 150
+    },
+    {
+        "productId": 13,
+        "series": "Fatal1ty B450 Gaming-ITX/ac",
+        "socket": "AM4",
+        "chipset": "AMD B450",
+        "ramCapacity": 32,
+        "maxRamSpeed": 3600,
+        "ramSlots": 2,
+        "ramType": "DDR4",
+        "m2Ports": 0,
+        "sataPorts": 3,
+        "pciSlots": 1,
+        "nvidiaSli": false,
+        "amdCrossfire": false,
+        "format": "mini-ITX",
+        "consumption": 100
+    },
+    {
+        "productId": 14,
+        "series": "B365M D3H",
+        "socket": "LGA 1151",
+        "chipset": "Intel B365",
+        "ramCapacity": 64,
+        "maxRamSpeed": 2666,
+        "ramSlots": 4,
+        "ramType": "DDR4",
+        "m2Ports": 1,
+        "sataPorts": 6,
+        "pciSlots": 2,
+        "nvidiaSli": false,
+        "amdCrossfire": true,
+        "format": "micro-ATX",
+        "consumption": 100
+    }
+]

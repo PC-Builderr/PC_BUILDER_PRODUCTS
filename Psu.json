@@ -1,0 +1,34 @@
+[
+    {
+        "productId": 15,
+        "series": "Dark Power Pro 12",
+        "power": 1200,
+        "efficiency": 90,
+        "certificate": "80 PLUS Titanium",
+        "modular": true
+    },
+    {
+        "productId": 16,
+        "series": "Straight Power 11",
+        "power": 650,
+        "efficiency": 87,
+        "certificate": "80 PLUS Gold",
+        "modular": true
+    },
+    {
+        "productId": 17,
+        "series": "VS Series VS450",
+        "power": 450,
+        "efficiency": 80,
+        "certificate": "80 PLUS",
+        "modular": false
+    },
+    {
+        "productId": 18,
+        "series": "System Power 9",
+        "power": 600,
+        "efficiency": 81,
+        "certificate": "80 PLUS Bronze",
+        "modular": false
+    }
+]

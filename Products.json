@@ -1,0 +1,209 @@
+[
+    {
+        "name": "NZXT Manta Matte Black",
+        "metaData": "NZXT case mini-ITX",
+        "imagesId": [2, 1],
+        "brandId": 14,
+        "description": "Color: Black, Size: 245 x 426 x 450, Ports: 2xUSB 3.0, 2x3.5 microphone and audio",
+        "price": 149,
+        "type": "case"
+    },
+    {
+        "name": "be quiet! Pure Base 600 | SILVER",
+        "metaData": "be quiet! case ATX",
+        "imagesId": [4, 3],
+        "brandId": 13,
+        "description": "Color: Black, Size: 492 x 220 x 470, Ports: 2xUSB 3.0, 2x3.5 microphone and audio",
+        "price": 159,
+        "type": "case"
+    },
+    {
+        "name": "Corsair Crystal Series 280X RGB",
+        "metaData": "Corsair case micro-ATX",
+        "imagesId": [6, 5],
+        "brandId": 9,
+        "description": "Color: Black, Size: 398 x 276 x 351, Ports: 2xUSB 3.0, 2x3.5 microphone and audio",
+        "price": 339,
+        "type": "case"
+    },
+    {
+        "name": "Intel Core i7-9700K",
+        "metaData": "Intel cpu Core i7 LGA 1151 DDR4 Coffee Lake 14nm",
+        "imagesId": [8, 7],
+        "brandId": 1,
+        "description": "8-core, 4.90 GHz, 12MB cache, 95 Watt",
+        "price": 719,
+        "type": "cpu"
+    },
+    {
+        "name": "Intel Core i5-10600K",
+        "metaData": "Intel cpu Core i5 LGA 1200 DDR4 Comet Lake 14nm",
+        "imagesId": [9],
+        "brandId": 1,
+        "description": "6-core, 4.80 GHz, 12MB cache, 95 Watt",
+        "price": 559,
+        "type": "cpu"
+    },
+    {
+        "name": "Intel Core i3-10300",
+        "metaData": "Intel cpu Core i3 LGA 1200 DDR4 Comet Lake 14nm",
+        "imagesId": [10],
+        "brandId": 1,
+        "description": "4-core, 4.40 GHz, 8MB cache, 65 Watt",
+        "price": 319,
+        "type": "cpu"
+    },
+    {
+        "name": "AMD Ryzen 5 3600XT",
+        "metaData": "AMD cpu Ryzen 5 AM4 DDR4 Zen 2 7nm",
+        "imagesId": [11],
+        "brandId": 2,
+        "description": "6-core, 4.50 GHz, 32MB L3  cache, 95 Watt",
+        "price": 529,
+        "type": "cpu"
+    },
+    {
+        "name": "AMD RYZEN 7 3700X",
+        "metaData": "AMD cpu Ryzen 7 AM4 DDR4 Zen 2 7nm",
+        "imagesId": [12],
+        "brandId": 2,
+        "description": "8-core, 4.40 GHz, 32MB L3  cache, 65 Watt",
+        "price": 709,
+        "type": "cpu"
+    },
+    {
+        "name": "AMD Ryzen 9 5900X",
+        "metaData": "AMD cpu Ryzen 9 AM4 DDR4 Zen 3 7nm",
+        "imagesId": [13],
+        "brandId": 2,
+        "description": "12-core, 4.70 GHz, 64MB L3  cache, 105 Watt",
+        "price": 1199,
+        "type": "cpu"
+    },
+    {
+        "name": "EVGA GeForce RTX 3090 FTW3 ULTRA GAMING",
+        "metaData": "EVGA GeForce RTX 3090 GDDR6X ATX gpu ",
+        "imagesId": [15, 14],
+        "brandId": 6,
+        "description": "24GB GDDR6X, 384-bit, HDMI, DisplayPort",
+        "price": 4499,
+        "type": "gpu"
+    },
+    {
+        "name": "MSI GeForce GTX 1650 SUPER AERO ITX OC",
+        "metaData": "MSI GeForce GTX 1650 Super mini-ITX GDDR6 gpu",
+        "imagesId": [17, 16],
+        "brandId": 8,
+        "description": "4GB GDDR6, 128-bit, HDMI, DisplayPort",
+        "price": 409,
+        "type": "gpu"
+    },
+    {
+        "name": "ASUS ROG STRIX Z490-H GAMING",
+        "metaData": "ASUS ROG STRIX GAMING LGA 1200 Intel Z490 DDR4 ATX motherboard M.2 NVMe SATA",
+        "imagesId": [19, 18],
+        "brandId": 4,
+        "description": "Intel Z490, LGA 1200, USB Type-C, DisplayPort",
+        "price": 549,
+        "type": "motherboard"
+    },
+    {
+        "name": "ASRock Fatal1ty B450 Gaming-ITX/ac",
+        "metaData": "Fatal1ty B450 Gaming-ITX/ac DDR4 mini-ITX SATA motherboard ASRock",
+        "imagesId": [21, 20],
+        "brandId": 3,
+        "description": "AMD B450, Socket AM4, USB Type-C, DisplayPort",
+        "price": 223,
+        "type": "motherboard"
+    },
+    {
+        "name": "Gigabyte B365M D3H",
+        "metaData": "Gigabyte B365M D3H motherboard M.2 NVMe SATA LGA 1151 DDR4 micro-ATX",
+        "imagesId": [23, 22],
+        "brandId": 7,
+        "description": "Intel B365, Socket 1151, HDMI, DisplayPort",
+        "price": 177,
+        "type": "motherboard"
+    },
+    {
+        "name": "be quiet! Dark Power Pro 12 Titanium 1200W",
+        "metaData": "be quiet! Dark Power Pro 12 Titanium 1200W case psu",
+        "imagesId": [25, 24],
+        "brandId": 13,
+        "description": "1200W, 80 PLUS Titanium, 1х135, Active PFC",
+        "price": 799,
+        "type": "psu"
+    },
+    {
+        "name": "be quiet! Straight Power 11 Gold 650W",
+        "metaData": "be quiet! Straight Power 11 Gold 650W case psu",
+        "imagesId": [27, 26],
+        "brandId": 13,
+        "description": "650W, 80 Plus Gold, 1х135, Active PFC",
+        "price": 259,
+        "type": "psu"
+    },
+    {
+        "name": "Corsair VS Series VS450 - 450W",
+        "metaData": "Corsair VS Series VS450 - 450W case psu",
+        "imagesId": [29, 28],
+        "brandId": 9,
+        "description": "450W, 80 Plus, 1х120",
+        "price": 103,
+        "type": "psu"
+    },
+    {
+        "name": "be quiet! System Power 9 Bronze 600W",
+        "metaData": "be quiet! System Power 9 Bronze 600W case psu",
+        "imagesId": [31, 30],
+        "brandId": 13,
+        "description": "600W, 80 Plus Bronze, 1х125, Active PFC",
+        "price": 119,
+        "type": "psu"
+    },
+    {
+        "name": "16GB DDR4 3466MHz Kingston HyperX Fury",
+        "metaData": "16GB DDR4 3466MHz Kingston HyperX Fury ram",
+        "imagesId": [32],
+        "brandId": 10,
+        "description": "16GB, DDR4, 3466MHz",
+        "price": 161,
+        "type": "ram"
+    },
+    {
+        "name": "4GB DDR4 2133MHz Corsair",
+        "metaData": "4GB DDR4 2133MHz Corsair ram",
+        "imagesId": [33],
+        "brandId": 9,
+        "description": "4GB, DDR4, 2133MHz",
+        "price": 48,
+        "type": "ram"
+    },
+    {
+        "name": "8GB DDR4 3200MHz Kingston HyperX Fury CL16",
+        "metaData": "DDR4 3200MHz Kingston HyperX Fury ram",
+        "imagesId": [34],
+        "brandId": 10,
+        "description": "8GB, DDR4, 3200MHz",
+        "price": 82,
+        "type": "ram"
+    },
+    {
+        "name": "500GB Samsung 860 EVO SATA",
+        "metaData": "Samsung 860 EVO SATA storage",
+        "imagesId": [35, 36],
+        "brandId": 11,
+        "description": "SATA 6GB/s, 550MB/s read speed, 520MB/s write speed",
+        "price": 139,
+        "type": "storage"
+    },
+    {
+        "name": "250GB Samsung 970 EVO Plus M.2 NVMe",
+        "metaData": "Samsung 970 EVO Plus M.2 NVMe storage",
+        "imagesId": [38, 37],
+        "brandId": 11,
+        "description": "250GB, NVMe 1.3 PCIe Gen 3.0 x4, 3400MB/s read speed, 2300MB/s write speed",
+        "price": 140,
+        "type": "storage"
+    }
+]
