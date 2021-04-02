@@ -1,7 +1,7 @@
 [
     {
         "productId": 12,
-        "series": "ROG STRIX Z490-H GAMING",
+        "series": "ROG STRIX Z490-H",
         "socket": "LGA 1200",
         "chipset": "Intel Z490",
         "ramCapacity": 128,
@@ -18,7 +18,7 @@
     },
     {
         "productId": 13,
-        "series": "Fatal1ty B450 Gaming-ITX/ac",
+        "series": "Fatal1ty B450",
         "socket": "AM4",
         "chipset": "AMD B450",
         "ramCapacity": 32,

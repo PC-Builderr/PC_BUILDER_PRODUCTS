@@ -1,7 +1,7 @@
 [
     {
         "productId": 22,
-        "series": "860 EVO SATA",
+        "series": "860 EVO",
         "type": "SATA",
         "capacity": 500,
         "readSpeed": 550,
@@ -10,7 +10,7 @@
     },
     {
         "productId": 23,
-        "series": "970 EVO Plus M.2 NVMe",
+        "series": "970 EVO Plus",
         "type": "М.2 NVMe",
         "capacity": 250,
         "readSpeed": 3400,
